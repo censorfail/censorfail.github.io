@@ -9,7 +9,7 @@
 
 Censorship Factor Analysis Independent Laboratory (CensorFail) is dedicated to provide novel and robust solution against Internet censorship. We are committed to the development of censorship detection, attack resistance evaluation and circumvention solutions.
 
-Censorship and circumventions are like a cat and mouse game. In the past, the circumvention tools lack the dynamics and always fall short on the detection of new censorship techniques. We are trying to turn the tables by developing a new ecosystem for censorship circumvention: Instead of developing a single tool, we are designing a standard procedure to design, evaluate, deploy and upgrade circumvention tools. We also actively probe the censorship techniques used by major censoring parties and develop new circumvention tools to counter them.
+Censorship and circumventions are like a cat and mouse game. In the past, the circumvention tools lacked the dynamics and always fall short on the detection of new censorship techniques. CensorFail is trying to turn the tables by developing a new ecosystem for censorship circumvention: Instead of developing a single tool, we are designing a standard procedure to design, evaluate, deploy and maintain circumvention tools. We are actively probing the censorship techniques used by major censoring parties so that we can design new circumvention methodologies to counter them.
 
 ## Team
 
