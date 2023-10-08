@@ -2,12 +2,14 @@
   <img src="./img/logo_tb.png" width=80px height=80px/>
 </p>
 <h1 align="center">CensorFail</h1>
-<h3 align="center">Aggresive, Agile, Analytical</h3>
+<h3 align="center">Bring the war to censors!</h3>
 <br>
 
 ## Mission
 
-Censorship Factor Analysis Independent Laboratory (CensorFail) is a council-like academic organization dedicated to produce quality research and solutions against Internet censorship. We are committed to the development of censorship detection, attack resistance solutions, and circumvention solutions.
+Censorship Factor Analysis Independent Laboratory (CensorFail) is a council-like academic organization dedicated to produce quality research and solutions against Internet censorship. We are committed to the development of quantitative censorship measurement and analysis methodologies, standardized censorship resistance approaches, and futuristic theoretical circumvention solutions.
+
+Instead of providing a certain set of circumvention tools, which has been done by many, we hereby build a systematic standard operating procedure (SOP) in responding to newly deployed censorship techniques and/or observed Internet anomalies, in order to help improve the efficiency of circumvention community in developing and deploying effective countermeasures.
 
 The relation between the censorship and circumventions is like a cat and mouse game. In the past, the circumvention community lacked the agility and have always been falling short on the countermeasures against new censorship techniques. CensorFail is dedicated to turn the tables with new ecosystems for censorship circumvention: Instead of a single circumvention tool or a group of tools, we hereby build a standard operating procedure to respond to new censorship techniques deployed by the censoring parties. 
 
